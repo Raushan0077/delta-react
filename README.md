@@ -1,1 +1,1 @@
-hi Tgis is a rect project
+Hi, this is a react project
